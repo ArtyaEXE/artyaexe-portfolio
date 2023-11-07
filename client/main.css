@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=Poppins:wght@400;500;700&display=swap");
+
+* {
+  --color-dark: #171718;
+  --color-dark-light: #242324;
+  --color-light: #f1f1f1;
+  --color-light-dark: #b7b6b7;
+  --color-beige: #d6be85;
+  --color-beige-light: #c7ad6f;
+}
+
+html,
+body {
+  font-family: "DM Sans", sans-serif;
+}
+
+.container {
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
